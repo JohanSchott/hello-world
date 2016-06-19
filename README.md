@@ -26,5 +26,9 @@ This project is for me to learn how to use git.
 
 - To delete the now unnecessary non-master branch, type: `git branch -d [name_of_your_new_branch]` 
 
+- To delete the remote non-master branch, type: `git push origin --delete [name_of_your_new_branch]`
+
+- In the case of merge conflicts, one have to manually solve it. The command `git mergetool` can also be of help. 
+
 
 
