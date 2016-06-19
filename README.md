@@ -22,4 +22,9 @@ This project is for me to learn how to use git.
 
 - To inspect all branches, type: `git branch`
 
+- Now merge the non master branch to the master branch: `git checkout master` and then `git merge [name_of_your_new_branch]`.
+
+- To delete the now unnecessary non-master branch, type: `git branch -d [name_of_your_new_branch]` 
+
+
 
