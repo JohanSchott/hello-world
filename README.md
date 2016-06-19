@@ -16,9 +16,10 @@ This project is for me to learn how to use git.
 
 - Edit repository by adding file `hello.py` containing `print('hello python')`.
 
-- Add this changes and commit: `git add hello.py` and `git commit -m "adding python script`.
+- Add these changes and commit: `git add hello.py` and `git commit -m "adding python script`.
 
 - Push this local branch to github: `git push origin [name_of_your_new_branch]`
 
+- To inspect all branches, type: `git branch`
 
 
