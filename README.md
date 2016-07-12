@@ -30,5 +30,5 @@ This project is for me to learn how to use git.
 
 - In the case of merge conflicts, one have to manually solve it. The command `git mergetool` can also be of help. 
 
-- `git fetch` just download updates from the remote to the local directory. But does not update the local branch, thus the downloaded data in hidden locally. `git merge` will merge two branches and `git pull` will do the same thing as `git fetch` followed by `git merge`.  
+- `git fetch` just download updates from the remote to the local directory. But does not update the local branch, thus the downloaded data is hidden locally. `git merge` will merge two versions and `git pull` will do the same thing as `git fetch` followed by `git merge`.  
 
