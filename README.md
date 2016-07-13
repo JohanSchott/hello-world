@@ -32,3 +32,4 @@ This project is for me to learn how to use git.
 
 - `git fetch` just download updates from the remote to the local directory. But does not update the local branch, thus the downloaded data is hidden locally. `git merge` will merge two versions and `git pull` will do the same thing as `git fetch` followed by `git merge`.  
 
+- `git init` creates a git repository
