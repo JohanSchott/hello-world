@@ -1,4 +1,4 @@
-# hello-world
+# How to use `git`
 This project is for me to learn how to use git.
 
 - First I'll clone the github version to my local version:
