@@ -2,7 +2,7 @@
 This project is for me to learn how to use git.
 
 - First I'll clone the github version to my local version:
-`git clone https://github.com/JohanSchott/hello-world.git`
+`git clone https://github.com/JohanSchott/how-to-use-git.git`
 
 - At any time one can use commands `git log`, `git status` and `git diff`. 
 
